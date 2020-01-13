@@ -1,0 +1,24 @@
+C:\Users\yeshan\Desktop\Flask_React
+├── app.py
+├── env
+|  ├── Include
+|  ├── Lib
+|  ├── LICENSE.txt
+|  ├── Scripts
+|  └── tcl
+├── frontend
+|  ├── build
+|  ├── node_modules
+|  ├── package-lock.json
+|  ├── package.json
+|  ├── public
+|  ├── README.md
+|  └── src
+├── static
+|  └── js
+└── templates
+   └── index.html
+
+directory: 13 file: 6
+
+ignored
