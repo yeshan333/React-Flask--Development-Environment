@@ -43,7 +43,7 @@ virtualenv env
 # 3、激活虚拟环境env
 source env/Scripts/activate
 # 4、安装项目依赖
-pip install -r requirments.txt
+pip install -r requirements.txt
 # 5、创建好templates和static目录，用于存放React打包好的渲染模板和静态文件
 mkdir templates
 mkdir static
