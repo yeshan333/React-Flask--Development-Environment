@@ -1,6 +1,8 @@
 
 # 前言
 
+> [使用 Docker 部署 React + Flask App](https://shansan.top/2020/06/28/%E4%BD%BF%E7%94%A8docker-compose%E7%BC%96%E6%8E%92%E5%89%8D%E5%90%8E%E7%AB%AF%E5%88%86%E7%A6%BB%E5%BA%94%E7%94%A8/)
+
 - 开篇两问：
   - 什么是React？：React，用于构建用户界面的 JavaScript 库（官网复制粘贴，真香，不用怎么写template了，舒服
   - 什么是Flask？：一个使用Python编写的轻量级Web应用框架。用来写[云原生应用](https://jimmysong.io/kubernetes-handbook/cloud-native/cloud-native-definition.html)很香！
